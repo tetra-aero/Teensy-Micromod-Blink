@@ -10,3 +10,4 @@ Teensy-Micromod-Blink
 3. [Getting Started with MicroMod - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/getting-started-with-micromod)
 4. [Teensy MicroMod, PJRC (Teensy) Forum](https://forum.pjrc.com/threads/63996-Teensy-MicroMod/)
 5. [TeensyDocuments/Teensy4 MicroMod Pins.pdf at master · KurtE/TeensyDocuments](https://github.com/KurtE/TeensyDocuments/blob/master/Teensy4%20MicroMod%20Pins.pdf)
+6. [screenshot.jpg (JPEG Image, 1280 × 983 pixels)](https://forum.pjrc.com/attachment.php?attachmentid=27477&d=1644247673)
